@@ -1,0 +1,35 @@
+@page "{id:int}"
+@model OT.Pages.Contacts.Details2Model
+
+
+@{
+    ViewData["Title"] = "Details2";
+}
+
+<h2>Details2</h2>
+
+<div>
+    <h4>Contact</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Post.Title)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Post.PostDate)
+        </dd>
+        <dt>
+            @Html.DisplayNameFor(model => model.Post.subscribers)
+        </dt>
+        <dd>
+            @Html.DisplayFor(model => model.Post.Price)
+        </dd>
+        <dt>
+           @Html.Raw(System.Net.WebUtility.HtmlDecode(Model.Post.content))
+        </dt>
+    </dl>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>

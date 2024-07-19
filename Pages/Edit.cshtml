@@ -1,0 +1,65 @@
+@page "{id:int}"
+@model OT.Pages.Contacts.EditModel
+
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit</h2>
+
+<h4>Post</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form method="post">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <input type="hidden" asp-for="Post.Id" />
+            <div class="form-group">
+                <label asp-for="Post.Title" class="control-label"></label>
+                <input asp-for="Post.Title" class="form-control" />
+                <span asp-validation-for="Post.Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Post.Price" class="control-label"></label>
+                <input asp-for="Post.Price" class="form-control" />
+                <span asp-validation-for="Post.Price" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Post.content" class="control-label"></label>
+                <!-- Place the rich text editor directly here -->
+                <ejs-richtexteditor id="richTextEditor">
+                    <e-richtexteditor-iframesettings enable="true"></e-richtexteditor-iframesettings>
+                        <e-content-template>
+        @Html.Raw(Model.Post.content)
+    </e-content-template>
+                </ejs-richtexteditor>
+                <span asp-validation-for="Post.content" class="text-danger"></span>
+            </div>
+           
+            <div class="form-group">
+                <input type="submit" value="Save" class="btn btn-default" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-page="./Index">Back to List</a>
+</div>
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+    <script>
+        // Function to set the content of the rich text editor
+        function setContent(content) {
+            var rteObj = document.getElementById('richTextEditor').ej2_instances[0];
+            rteObj.value = content;
+        }
+
+        // Call the setContent function when the page is loaded
+        window.onload = function() {
+            // Assuming 'Model.Post.content' contains the content of your post
+            setContent('@Html.Raw(Model.Post.content)');
+        };
+    </script>
+}

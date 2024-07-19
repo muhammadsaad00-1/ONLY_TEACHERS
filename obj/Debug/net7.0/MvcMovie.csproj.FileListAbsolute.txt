@@ -1,0 +1,278 @@
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/appsettings.Development.json
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/appsettings.json
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/MvcMovie.staticwebassets.runtime.json
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/MvcMovie
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/MvcMovie.deps.json
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/MvcMovie.runtimeconfig.json
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/MvcMovie.pdb
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.AssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.RazorAssemblyInfo.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.RazorAssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/staticwebassets/msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/staticwebassets/msbuild.build.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/staticwebassets.build.json
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/staticwebassets.development.json
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/scopedcss/bundle/MvcMovie.styles.css
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/scopedcss/projectbundle/MvcMovie.bundle.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/refint/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.pdb
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.genruntimeconfig.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/ref/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Humanizer.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/System.CodeDom.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.csproj.AssemblyReference.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.csproj.CopyComplete
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/app.db
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/EntityFramework.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNet.Identity.Core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/bin/Debug/net7.0/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/MvcMovie/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/appsettings.Development.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/appsettings.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/app.db
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/MvcMovie.staticwebassets.runtime.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/MvcMovie
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/MvcMovie.deps.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/MvcMovie.runtimeconfig.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/MvcMovie.pdb
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/EntityFramework.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Humanizer.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNet.Identity.Core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/System.CodeDom.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.csproj.AssemblyReference.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.AssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.RazorAssemblyInfo.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.RazorAssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/staticwebassets/msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/staticwebassets/msbuild.build.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/staticwebassets.build.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/staticwebassets.development.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/scopedcss/bundle/MvcMovie.styles.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/scopedcss/projectbundle/MvcMovie.bundle.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.csproj.CopyComplete
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/refint/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.pdb
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/MvcMovie.genruntimeconfig.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/ref/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Syncfusion.EJ2.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers/bin/Debug/net7.0/Syncfusion.Licensing.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/appsettings.Development.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/appsettings.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/app.db
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/MvcMovie.staticwebassets.runtime.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/MvcMovie
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/MvcMovie.deps.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/MvcMovie.runtimeconfig.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/MvcMovie.pdb
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/EntityFramework.SqlServer.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/EntityFramework.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Humanizer.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNet.Identity.Core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNet.Identity.EntityFramework.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNetCore.Authorization.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.Internal.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNetCore.Identity.UI.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.AspNetCore.Metadata.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.Data.Sqlite.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Design.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Relational.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.EntityFrameworkCore.Sqlite.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.Extensions.DependencyModel.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.Extensions.FileProviders.Embedded.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.Extensions.Identity.Core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.Extensions.Identity.Stores.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.Extensions.Options.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Mono.TextTemplating.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/SQLitePCLRaw.batteries_v2.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/SQLitePCLRaw.core.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/SQLitePCLRaw.provider.e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Syncfusion.EJ2.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Syncfusion.Licensing.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/System.CodeDom.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/System.Security.Permissions.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/alpine-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/alpine-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/alpine-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/browser-wasm/nativeassets/net7.0/e_sqlite3.a
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-armel/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-mips64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-musl-arm/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-musl-arm64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-musl-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-ppc64le/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-s390x/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-x64/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/linux-x86/native/libe_sqlite3.so
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/maccatalyst-arm64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/maccatalyst-x64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/osx-arm64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/osx-x64/native/libe_sqlite3.dylib
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/win-arm/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/win-arm64/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/win-x64/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/win-x86/native/e_sqlite3.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.csproj.AssemblyReference.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.GeneratedMSBuildEditorConfig.editorconfig
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.AssemblyInfoInputs.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.AssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.csproj.CoreCompileInputs.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.MvcApplicationPartsAssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.MvcApplicationPartsAssemblyInfo.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.RazorAssemblyInfo.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.RazorAssemblyInfo.cs
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/staticwebassets/msbuild.MvcMovie.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/staticwebassets/msbuild.build.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.MvcMovie.props
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/staticwebassets.pack.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/staticwebassets.build.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/staticwebassets.development.json
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/scopedcss/Pages/Shared/_Layout.cshtml.rz.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/scopedcss/bundle/MvcMovie.styles.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/scopedcss/projectbundle/MvcMovie.bundle.scp.css
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.csproj.CopyComplete
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/refint/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.pdb
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/MvcMovie.genruntimeconfig.cache
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/obj/Debug/net7.0/ref/MvcMovie.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Microsoft.Win32.SystemEvents.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/Stripe.net.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/System.Configuration.ConfigurationManager.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/System.Drawing.Common.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/System.Security.Cryptography.ProtectedData.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/System.Windows.Extensions.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/Users/taaharauf/Documents/UniLabs/DB Project/OnlyTeachers 2/bin/Debug/net7.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll

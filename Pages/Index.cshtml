@@ -1,0 +1,81 @@
+﻿@page
+@using ContactManager.Authorization
+@model OT.Pages.Contacts.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h2>Posts</h2>
+
+<div class="post-grid">
+    @foreach (var item in Model.Post)
+    {
+        <div class="post-card">
+            <div class="post-header">
+                <h3>@Html.DisplayFor(modelItem => item.Title)</h3>
+                <span class="post-date">@Html.DisplayFor(modelItem => item.PostDate)</span>
+            </div>
+            <div class="post-content">
+                <p>@Html.Raw(Model.GetPlainText(item.content))</p>
+            </div>
+            <div class="post-details">
+                <span class="post-status">Status: @Html.DisplayFor(modelItem => item.Status)</span>
+            </div>
+            <div class="post-actions">
+                @if ((await Model.AuthorizationService.AuthorizeAsync(User, item, new[] { ContactOperations.Update })).Succeeded)
+                {
+                    <a asp-page="./Edit" asp-route-id="@item.Id" class="btn btn-primary">Edit</a>
+                }
+                <a asp-page="./Details" asp-route-id="@item.Id" class="btn btn-secondary">Details</a>
+                @if ((await Model.AuthorizationService.AuthorizeAsync(User, item, new[] { ContactOperations.Delete })).Succeeded)
+                {
+                    <a asp-page="./Delete" asp-route-id="@item.Id" class="btn btn-danger">Delete</a>
+                }
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .post-grid {
+        display: grid;
+        grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+        gap: 20px;
+        margin-top: 20px;
+    }
+
+    .post-card {
+        background-color: #ffffff;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        padding: 20px;
+        transition: transform 0.3s ease-in-out;
+    }
+
+    .post-card:hover {
+        transform: translateY(-5px);
+    }
+
+    .post-header h3 {
+        margin: 0;
+        color: #333333;
+    }
+
+    .post-date {
+        color: #777777;
+    }
+
+    .post-content {
+        margin-bottom: 10px;
+        color: #555555;
+    }
+
+    .post-details {
+        margin-bottom: 10px;
+    }
+
+    .post-actions .btn {
+        margin-right: 10px;
+    }
+</style>

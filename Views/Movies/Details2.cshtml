@@ -1,0 +1,51 @@
+@* @model OT.Models.Post
+
+@{
+    ViewData["Title"] = "Blog Post";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css">
+    <!-- You can add additional stylesheets for custom styling -->
+</head>
+<body>
+    <div class="container">
+        <div class="row">
+            <div class="col-md-8">
+                <article>
+                    <header>
+                        <h1>@Html.DisplayFor(model => model.Title)</h1>
+                        <p>Posted on <time>@Html.DisplayFor(model => model.PostDate)</time></p>
+                         <p>Price: $<time>@Html.DisplayFor(model => model.Price)</time></p>
+                    </header>
+                    <div>
+                        @Html.DisplayFor(model => model.content)
+                    </div>
+                </article>
+            </div>
+            <div class="col-md-4">
+                <!-- You can add a sidebar with additional information here -->
+                <div>
+                    <h4>Author</h4>
+                    <!-- You can display author information here -->
+                </div>
+                <div>
+                    <h4>Categories</h4>
+                    <p>Subscriber count: <time>@Html.DisplayFor(model => model.subscribers)</time></p>
+                    <!-- You can display categories here -->
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-md-8">
+                <!-- You can add comments section here -->
+                <h4>Comments</h4>
+                <!-- Add code for displaying comments -->
+            </div>
+        </div>
+    </div>
+</body>
+</html> *@

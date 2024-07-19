@@ -1,0 +1,75 @@
+﻿@* @model IEnumerable<OT.Models.Post>
+@{
+    ViewData["Title"] = "Home";
+}
+
+<h1>Welcome to Only Teachers Homepage</h1>
+
+<div class="tweets-container">
+    @foreach (var item in Model)
+    {
+        <div class="tweet">
+            <div class="tweet-header">
+                <span class="tweet-author">@item.Title</span>
+                <span class="tweet-date">@item.PostDate.ToString("MMMM dd, yyyy")</span>
+            </div>
+            <div class="tweet-content">
+                <p>@item.content</p>
+            </div>
+            <div class="tweet-actions">
+               <a asp-action="Edit" asp-route-id="@item.Id">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.Id">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.Id">Delete</a> |
+                <a asp-action="Subscribe" asp-route-id="@item.Id">Subscribe</a>
+            </div>
+        </div>
+    }
+</div>
+
+<style>
+    .tweets-container {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+
+    .tweet {
+        background-color: #f9f9f9;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        margin: 10px;
+        padding: 20px;
+        max-width: 300px;
+        width: 100%;
+    }
+
+    .tweet-header {
+        display: flex;
+        align-items: center;
+        margin-bottom: 10px;
+    }
+
+    .tweet-author {
+        color: #333;
+        font-weight: bold;
+        margin-right: 10px;
+    }
+
+    .tweet-date {
+        color: #777;
+    }
+
+    .tweet-content {
+        margin-bottom: 15px;
+    }
+
+    .tweet-actions a {
+        color: #1da1f2;
+        text-decoration: none;
+        transition: color 0.3s ease;
+    }
+
+    .tweet-actions a:hover {
+        color: #0e71b8;
+    }
+</style> *@

@@ -1,0 +1,117 @@
+@page
+@model OT.Pages.Contacts.CreateModel
+
+@{
+    ViewData["Title"] = "Create";
+}
+
+<h2>Create</h2>
+
+<h4>Contact</h4>
+<hr />
+<div class="row">
+    
+    <div class="col-md-4 d-flex">
+        <form method="post">
+            <input type="hidden" id="richTextContent" name="RichTextEditor" />
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="Post.Title" class="control-label"></label>
+                <input asp-for="Post.Title" class="form-control" />
+                <span asp-validation-for="Post.Title" class="text-danger"></span>
+            </div>
+            
+            @* <div class="form-group">
+                <label asp-for="Post.content" class="control-label"></label>
+                <input asp-for="Post.content" class="form-control" />
+                <span asp-validation-for="Post.content" class="text-danger"></span>
+            </div> *@
+            @* <div class="form-group">
+                <label asp-for="Contact.City" class="control-label"></label>
+                <input asp-for="Contact.City" class="form-control" />
+                <span asp-validation-for="Contact.City" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Contact.State" class="control-label"></label>
+                <input asp-for="Contact.State" class="form-control" />
+                <span asp-validation-for="Contact.State" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Contact.Zip" class="control-label"></label>
+                <input asp-for="Contact.Zip" class="form-control" />
+                <span asp-validation-for="Contact.Zip" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Contact.Email" class="control-label"></label>
+                <input asp-for="Contact.Email" class="form-control" />
+                <span asp-validation-for="Contact.Email" class="text-danger"></span>
+            </div> *@
+              <ejs-richtexteditor id="iframe">
+         <e-richtexteditor-iframesettings enable="true"></e-richtexteditor-iframesettings>
+    
+    <e-content-template>
+        <div>
+            <p>The Rich Text Editor is WYSIWYG ('what you see is what you get') editor useful to create and edit content, and return the valid <a href='https://ej2.syncfusion.com/aspnetcore/RichTextEditor/Overview'>HTML markup</a> or <a href='https://ej2.syncfusion.com/aspnetcore/RichTextEditor/DefaultMode'>markdown</a> of the content</p>
+            <p><b> Toolbar </b></p>
+            <ol>
+                <li>
+                    <p> Toolbar contains commands to align the text, insert link, insert image, insert list, undo / redo operations, HTML view, etc </p>
+                </li>
+                <li>
+                    <p> Toolbar is fully customizable </p>
+                </li>
+            </ol>
+            <p><b> Links </b></p>
+            <ol>
+                <li>
+                    <p> You can insert a hyperlink with its corresponding dialog</p>
+                </li>
+                <li>
+                    <p> Attach a hyperlink to the displayed text. </p>
+                </li>
+                <li>
+                    <p> Customize the quick toolbar based on the hyperlink </p>
+                </li>
+            </ol>
+            <p><b> Image.</b></p>
+            <ol>
+                <li>
+                    <p> Allows you to insert images from an online source as well as the local computer</p>
+                </li>
+                <li>
+                    <p> You can upload an image</p>
+                </li>
+                <li>
+                    <p> Provides an option to customize quick toolbar for an image </p>
+                </li>
+            </ol>
+        </div>
+    </e-content-template>
+</ejs-richtexteditor>
+<button id="getRTEvalue" style="background-color: #4CAF50; color: white; padding: 15px 32px; text-align: center; text-decoration: none; display: inline-block; font-size: 16px; margin: 4px 2px; cursor: pointer; border-radius: 8px; transition-duration: 0.4s;">
+    Post Content and Start Earning!
+</button>
+<div style="margin-top: 20px;">
+    <a asp-page="Index" style="background-color: #007bff; color: white; padding: 10px 20px; text-decoration: none; border-radius: 5px;">Back to List</a>
+</div>
+
+</form>
+        
+    </div>
+
+<script>
+    document.getElementById('getRTEvalue').addEventListener('click', function () {
+        var richTextContent = document.getElementById('iframe').ej2_instances[0].value;
+        document.getElementById('richTextContent').value = richTextContent;
+        // Now submit the form
+        document.querySelector('form').submit();
+    });
+</script>
+</div>
+
+
+
+@section Scripts {
+    @{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+}
+

@@ -1,0 +1,84 @@
+@page "{id:int}"
+@using ContactManager.Authorization
+@using OT.Models
+@model OT.Pages.Contacts.DetailsModel
+
+
+
+
+@{
+    ViewData["Title"] = "Details";
+}
+
+<h2>Details</h2>
+
+<div>
+    <h4>Post</h4>
+    <hr />
+    <dl class="dl-horizontal">
+            <dt>
+            @Html.DisplayNameFor(model => model.Post.PostDate)
+        </dt>
+              <dd>
+            @Html.DisplayFor(model => model.Post.PostDate)
+        </dd>
+               <dt>
+            @Html.DisplayNameFor(model => model.Post.Title)
+        </dt>
+              <dd>
+            @Html.DisplayFor(model => model.Post.Title)
+        </dd>
+               <dt>
+            @Html.DisplayNameFor(model => model.Post.content)
+        </dt>
+              <dd>
+            @Html.Raw(System.Net.WebUtility.HtmlDecode(Model.Post.content))
+        </dd>
+               <dt>
+            @Html.DisplayNameFor(model => model.Post.subscribers)
+        </dt>
+              <dd>
+            @Html.DisplayFor(model => model.Post.subscribers)
+        </dd>
+
+        
+      
+       
+    </dl>
+</div>
+
+@if (Model.Post.Status != ContactStatus.Approved)
+{
+  @if ((await Model.AuthorizationService.AuthorizeAsync(User, Model.Post, new[] { ContactOperations.Approve })).Succeeded)
+{
+    <form style="display:inline;" method="post">
+        <input type="hidden" name="id" value="@Model.Post.Id" />
+        <input type="hidden" name="status" value="@ContactStatus.Approved" />
+        <button type="submit" class="btn btn-xs btn-success">Approve</button>
+    </form>
+}
+
+
+    
+}
+@if (Model.Post.Status != ContactStatus.Rejected)
+{
+@if ((await Model.AuthorizationService.AuthorizeAsync(User, Model.Post, new[] { ContactOperations.Reject })).Succeeded)
+    {
+        <form style="display:inline;" method="post">
+            <input type="hidden" name="id" value="@Model.Post.Id" />
+            <input type="hidden" name="status" value="@ContactStatus.Rejected" />
+            <button type="submit" class="btn btn-xs btn-danger">Reject</button>
+        </form>
+    }
+}
+
+<div>
+  @if ((await Model.AuthorizationService.AuthorizeAsync(User, Model.Post, new[] { ContactOperations.Update })).Succeeded)
+    {
+        <a asp-page="./Edit" asp-route-id="@Model.Post.Id">Edit</a>
+        <text> | </text>
+    }
+    <a asp-page="./Index">Back to List</a>
+</div>
+<!-- </snippet> -->
